@@ -1,4 +1,4 @@
-# Chegg-Scraper (PATCHED)
+# Chegg Scraper to discord (PATCHED)
 
 This repository is for research purposes only, the use of this code is your responsibility.
 
