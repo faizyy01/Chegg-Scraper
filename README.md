@@ -10,5 +10,5 @@ All this is wrapped into a discord bot. When a command through discord with a ur
 
 This script uses multiple ways to avoid bot detection and works almost all the time when combined with a residential proxy. And for the times it fails, it automatically solves captcha using 2captcha. 
 
-# Screen Shot
+
 
